@@ -1,3 +1,8 @@
+# react-shopping-cart App
+freeCodeCamp.org 유튜브 채널 클론코딩입니다.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
